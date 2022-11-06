@@ -1,4 +1,4 @@
-module github.com/xulei131401/holy-cmd
+module github.com/xulei131401/myctl
 
 go 1.18
 
